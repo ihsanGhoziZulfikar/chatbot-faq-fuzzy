@@ -100,4 +100,4 @@ training_data_examples = [
     ("apa fasilitas kesetatan yang diberikan untuk saya?","Perusahaan memberikan fasilitas BPJS Kesehatan dan BPJS Ketenagakerjaan, serta subsidi medical check-up tahunan. Untuk klaim kesehatan tambahan, silakan cek detail asuransi jika perusahaan bekerja sama dengan provider tertentu.")
 ]
 
-best_t = tune_fuzzy_threshold(df, training_data_examples)
+# best_t = tune_fuzzy_threshold(df, training_data_examples)
