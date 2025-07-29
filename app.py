@@ -77,7 +77,7 @@ st.markdown(
 st.markdown(
     """
     <div class="centered">
-        <h1>Selamat datang di FAQ HR Chatbot,<br>tanyakan tentang <span class="typewriter"></span></h1>
+        <h1>Selamat datang di TanyaHR!<br>tanyakan tentang <span class="typewriter"></span></h1>
     </div>
     """,
     unsafe_allow_html=True
